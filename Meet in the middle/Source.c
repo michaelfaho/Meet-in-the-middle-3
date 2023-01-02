@@ -4,6 +4,7 @@
 
 int main()
 {
+
 	ALLEGRO_DISPLAY* display;
 	ALLEGRO_EVENT_QUEUE* queue;
 	ALLEGRO_TIMER* timer;
