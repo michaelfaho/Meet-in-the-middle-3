@@ -111,5 +111,6 @@ int main()
 	al_destroy_bitmap(matoran_matau);
 	al_destroy_bitmap(matoran_onewa);
 	0000
+		1111
 	return 0;
 }
