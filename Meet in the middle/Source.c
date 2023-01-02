@@ -98,7 +98,7 @@ int main()
 
 	}
 
-	al_destroy_display(display);
+	al_destroy_display(display); 
 	al_uninstall_keyboard();
 	al_destroy_timer(timer);
 	al_destroy_bitmap(board);
