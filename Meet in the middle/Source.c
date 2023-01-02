@@ -33,25 +33,25 @@ int main()
 
 
 	al_init_image_addon();
-	board = al_load_bitmap("Board.png");
+	board = al_load_bitmap("img/Board.png");
 	assert(board != NULL);
-	tas = al_load_bitmap("Tas.png");
+	tas = al_load_bitmap("img/Tas.png");
 	assert(tas != NULL);
-	menu1 = al_load_bitmap("Menu1.png");
+	menu1 = al_load_bitmap("img/Menu1.png");
 	assert(tas != NULL);
-	menu2 = al_load_bitmap("Menu2.png");
+	menu2 = al_load_bitmap("img/Menu2.png");
 	assert(tas != NULL);
-	menu3 = al_load_bitmap("Menu3.png");
+	menu3 = al_load_bitmap("img/Menu3.png");
 	assert(tas != NULL);
 
-	matau = al_load_bitmap("Matau.png");
+	matau = al_load_bitmap("img/Matau.png");
 	assert(matau != NULL);
-	onewa = al_load_bitmap("Onewa.png");
+	onewa = al_load_bitmap("img/Onewa.png");
 	assert(onewa != NULL);
 
-	matoran_matau = al_load_bitmap("Matoran_Matau.png");
+	matoran_matau = al_load_bitmap("img/Matoran_Matau.png");
 	assert(matoran_matau != NULL);
-	matoran_onewa = al_load_bitmap("Matoran_Onewa.png");
+	matoran_onewa = al_load_bitmap("img/Matoran_Onewa.png");
 	assert(matoran_onewa != NULL);
 
 
