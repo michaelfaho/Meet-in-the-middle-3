@@ -110,6 +110,6 @@ int main()
 	al_destroy_bitmap(onewa);
 	al_destroy_bitmap(matoran_matau);
 	al_destroy_bitmap(matoran_onewa);
-
+	0000
 	return 0;
 }
